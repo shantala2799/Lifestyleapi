@@ -7,30 +7,51 @@ Local-http://localhost:2800/listing/1
 Live-https://lifestylea.herokuapp.com/listing/1
 
 To see the men collection
+
 Local-http://localhost:2800/listing/2
+
 Live-https://lifestylea.herokuapp.com/listing/2
+
 To see the Kids collection
+
 Local-http://localhost:2800/listing/3
+
 Live-https://lifestylea.herokuapp.com/listing/3
+
 To see the Shoes collection
+
 Local-http://localhost:2800/listing/4
+
 Live-https://lifestylea.herokuapp.com/listing/4
+
 To see the Beauty collection
+
 Local-http://localhost:2800/listing/5
+
 Live-https://lifestylea.herokuapp.com/listing/5
 
 To see the quick brands
+
 http://localhost:2800/Brands/1?Brandsid=4
+
 https://lifestylea.herokuapp.com/Brands/1?Brandsid=4
 
 //Page2
+
 To see Tops & Tees wrt women
+
 http://localhost:2800/listing/1?Shoptypeid=1
+
 https://lifestylea.herokuapp.com/listing/1?Shoptypeid=1
+
 To see Kurtas wrt women
+
 http://localhost:2800/listing/1?Shoptypeid=2
+
 https://lifestylea.herokuapp.com/listing/1?Shoptypeid=2
+
 To see Dress wrt women
+
 http://localhost:2800/listing/1?Shoptypeid=3
 https://lifestylea.herokuapp.com/listing/1?Shoptypeid=3
 To see Jeans wrt women
