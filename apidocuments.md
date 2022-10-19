@@ -1,7 +1,11 @@
 //Page1
+
 To see the women collection
+
 Local-http://localhost:2800/listing/1
+
 Live-https://lifestylea.herokuapp.com/listing/1
+
 To see the men collection
 Local-http://localhost:2800/listing/2
 Live-https://lifestylea.herokuapp.com/listing/2
